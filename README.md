@@ -37,7 +37,7 @@ Make sure you have added the email in your Github Emails. For further informatio
 From the top right hand corner, under the Green Box called "Code" with an arrow, copy the link for this repository(OR copy the next command).
 
 Enter the following in your Terminal Window to get a copy of the repository on your local machine.
-git clone https://github.com/FalloutBoy379/TKR2022Embedded.git
+gh repo clone mayankmk03/Missing-Child-Project_SIH
 
 Put your code and any other files in the folder they belong in.
 When it is time to push your changes to Github, go through the following.
